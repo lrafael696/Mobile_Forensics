@@ -14,6 +14,7 @@ APACHE LICENSE
 
 GNU GENERAL PUBLIC LICENSE
 
+* Avilla Forensics: https://github.com/AvillaDaniel/AvillaForensics
 * Libimobiledevice: https://github.com/libimobiledevice/libimobiledevice.
 * IPED: https://github.com/sepinf-inc/IPED.
 * IPED PARSERS: https://github.com/sepinf-inc/IPED/tree/master/iped-parsers/iped-parsers-impl/src/main/resources/iped/parsers/whatsapp https://github.com/tc-wleite (GNU GENERAL PUBLIC LICENSE). (WhatsParser.cs and WhatsParserAntigocs.cs)
@@ -21,6 +22,7 @@ GNU GENERAL PUBLIC LICENSE
 * AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics.
 * WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python).(FormDecript.cs).
 * SQLiteStudio: https://github.com/pawelsalawa/sqlitestudio.
+* SQLiteBrowser: https://github.com/sqlitebrowser/sqlitebrowser
 * jExifToolGUI: https://github.com/hvdwolf/jExifToolGUI.
 * GpsPrune: https://activityworkshop.net/software/gpsprune/ https://github.com/activityworkshop/GpsPrune.
 * Bytecode Viewer: https://github.com/Konloch/bytecode-viewer.
@@ -43,6 +45,7 @@ Freeware LICENSE
 
 * Alias Connector: http://www.newseg.seg.br/newseg/.
 * Audio transcription: http://www.newseg.seg.br/newseg/.
+* Magnet Acquire: https://www.magnetforensics.com/resources/magnet-acquire/
 
 PUBLIC DOMAIN
 
