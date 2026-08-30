@@ -14,10 +14,11 @@ APACHE LICENSE
 
 GNU GENERAL PUBLIC LICENSE
 
+* Autopsy: https://www.autopsy.com/
 * Avilla Forensics: https://github.com/AvillaDaniel/AvillaForensics
+* Mobile Security Framework (MobSF): https://github.com/mobsf/mobile-security-framework-mobsf  
 * Libimobiledevice: https://github.com/libimobiledevice/libimobiledevice.
 * IPED: https://github.com/sepinf-inc/IPED.
-* IPED PARSERS: https://github.com/sepinf-inc/IPED/tree/master/iped-parsers/iped-parsers-impl/src/main/resources/iped/parsers/whatsapp https://github.com/tc-wleite (GNU GENERAL PUBLIC LICENSE). (WhatsParser.cs and WhatsParserAntigocs.cs)
 * IPEDTools: https://github.com/thiagofuer/IPEDTools_Releases/releases.
 * AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics.
 * WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python).(FormDecript.cs).
@@ -57,4 +58,4 @@ UNDEFINED
 * Grep: https://git-scm.com/docs/git-grep. (UNDEFINED).
 
 IMAGES Androis and iOS
-* 
+* Public Images: https://thebinaryhick.blog/public_images/ 
